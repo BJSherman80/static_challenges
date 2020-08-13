@@ -1,0 +1,22 @@
+h1 {
+  font-size:110%;
+  color:White;
+  background-color:rgb(255, 99, 71);
+  text-align:left;
+  padding-bottom: 15px;
+}
+
+h2 {
+  background-color:Black;
+  text-align:right;
+}
+
+a {
+color:White;
+text-align:right;
+padding:15px;
+}
+
+#Loginbtn {
+padding-left: 95%;
+}
